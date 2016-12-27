@@ -1,0 +1,36 @@
+DELIMITERS = "." ;
+
+LIST ABLATIVE = abl;
+LIST ACCUSATIVE = acc;
+LIST ACTIVE = a;
+LIST ADJECTIVE = adj;
+LIST FEMININE = f;
+LIST GENITIVE = gen;
+LIST INDICATIVE = indic;
+LIST MASCULINE = m;
+LIST NOMINATIVE = nom;
+LIST NOUN = noun;
+LIST NUMERAL = num;
+LIST PARTICIPLE = part;
+LIST PASSIVE = pass;
+LIST PERFECT = perf;
+LIST PLURAL = pl;
+LIST PREPOSITION = prep;
+LIST PRESENT = pres;
+LIST PRONOUN = pron;
+LIST REFLEXIVE = mid;
+LIST RELATIVE = rel;
+LIST SINGULAR = singular;
+LIST THIRD = third;
+LIST VERB = v;
+
+LIST @nsubj = @nsubj; # Gallia -> diuisa, Belgae -> incolunt, Aquitani -> [incolunt], qui -> appellantur
+LIST @aux = @aux; # est -> diuisa
+LIST @amod = @amod; # omnis -> Gallia, aliam -> [partem], nostra -> [lingua]
+LIST @root = @root; # diuisa
+LIST @case = @case; # in -> partes
+LIST @obl = @obl; # partes -> diuisa, lingua -> appellantur, Celtae -> appellantur, Galli -> [appellantur]
+LIST @nummod = @nummod; # tres -> partes, unam -> [partem], tertiam -> [partem]
+LIST @nmod = @nmod = # quarum -> [partem], ipsorum -> lingua
+LIST @obj = @obj; # [partem] -> incolunt, [partem] -> [incolunt], [partem] -> [incolunt]
+LIST @acl = @acl; # incolunt -> partes, appellantur -> [ei]
