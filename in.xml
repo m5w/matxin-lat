@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<corpus>
+
+<SENTENCE ord="0" alloc="0">
+     <NODE ord="2" alloc="0" form="vidi" lem="video1" mi="VERB|Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act" si="root">
+       <NODE ord="1" alloc="0" form="et" lem="et1" mi="CONJ" si="advmod"/>
+       <NODE ord="4" alloc="0" form="aperuisset" lem="aperio1" mi="VERB|Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act" si="ccomp">
+         <NODE ord="3" alloc="0" form="quod" lem="quod1" mi="SCONJ" si="mark"/>
+         <NODE ord="5" alloc="0" form="agnus" lem="agnus1" mi="NOUN|Case=Nom|Gender=Masc|Number=Sing" si="nsubj"/>
+         <NODE ord="6" alloc="0" form="unum" lem="unus1" mi="ADJ|Case=Acc|Gender=Neut|Number=Sing" si="dobj">
+           <NODE ord="9" alloc="0" form="signaculis" lem="signaculum1" mi="NOUN|Case=Abl|Gender=Neut|Number=Plur" si="nmod">
+             <NODE ord="7" alloc="0" form="de" lem="de1" mi="ADP" si="case"/>
+             <NODE ord="8" alloc="0" form="septem" lem="septem1" mi="NUM" si="nummod"/>
+           </NODE>
+         </NODE>
+       </NODE>
+       <NODE ord="10" alloc="0" form="et" lem="et1" mi="CONJ" si="cc"/>
+       <NODE ord="11" alloc="0" form="audivi" lem="audio1" mi="VERB|Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act" si="conj">
+         <NODE ord="12" alloc="0" form="unum" lem="unus1" mi="ADJ|Case=Acc|Gender=Neut|Number=Sing" si="dobj">
+           <NODE ord="15" alloc="0" form="animalibus" lem="animal1" mi="NOUN|Case=Abl|Gender=Neut|Number=Plur" si="nmod">
+             <NODE ord="13" alloc="0" form="de" lem="de1" mi="ADP" si="case"/>
+             <NODE ord="14" alloc="0" form="quattuor" lem="quattuor1" mi="NUM" si="nummod"/>
+           </NODE>
+           <NODE ord="16" alloc="0" form="dicentem" lem="dico2" mi="VERB|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act" si="amod">
+             <NODE ord="18" alloc="0" form="vocem" lem="vox1" mi="NOUN|Case=Acc|Gender=Fem|Number=Sing" si="nmod">
+               <NODE ord="17" alloc="0" form="tamquam" lem="tamquam1" mi="ADV" si="mark"/>
+               <NODE ord="19" alloc="0" form="tonitrui" lem="tonitrus1" mi="NOUN|Case=Dat|Gender=Masc|Number=Sing" si="nmod"/>
+             </NODE>
+             <NODE ord="20" alloc="0" form="veni" lem="venio1" mi="VERB|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act" si="nmod"/>
+           </NODE>
+         </NODE>
+       </NODE>
+     </NODE>
+</SENTENCE>
+</corpus>
