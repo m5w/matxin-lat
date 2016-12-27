@@ -34,3 +34,6 @@ LIST @nummod = @nummod; # tres -> partes, unam -> [partem], tertiam -> [partem]
 LIST @nmod = @nmod = # quarum -> [partem], ipsorum -> lingua
 LIST @obj = @obj; # [partem] -> incolunt, [partem] -> [incolunt], [partem] -> [incolunt]
 LIST @acl = @acl; # incolunt -> partes, appellantur -> [ei]
+
+SECTION
+MAP @amod TARGET ADJECTIVE;
