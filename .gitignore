@@ -1,2 +1,5 @@
 # gvim
 *.swp
+
+# python
+*.pyc
