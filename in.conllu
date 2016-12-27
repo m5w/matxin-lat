@@ -1,0 +1,10 @@
+1	Curris	curro1	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	,	comma1	PUNCT	u--------	_	1	punct	_	_
+3	stupes	stupeo1	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+4	,	comma1	PUNCT	u--------	_	1	punct	_	_
+5	satagis	satago1	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+6	,	comma1	PUNCT	u--------	_	8	punct	_	_
+7	tanquam	tamquam1	ADV	d--------	_	8	mark	_	_
+8	mus	mus1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	nmod	_	_
+9	in	in1	ADP	r--------	_	10	case	_	_
+10	matella	matella1	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	8	nmod	_	_
