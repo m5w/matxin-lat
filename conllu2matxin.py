@@ -26,9 +26,7 @@ def proc(depth, nodes, deps, node): #{
                 form = escape(nodes[node][1]);
                 lem = escape(nodes[node][2]);
                 mi = '_';
-                if nodes[node][4] != '_': #{
-                        mi = nodes[node][4] + '|' + nodes[node][5];
-                elif nodes[node][3] != '_': #{
+                if nodes[node][3] != '_': #{
                         mi = nodes[node][3] + '|' + nodes[node][5];
                 #}
                 mi = mi.replace('|_', '').replace('<', '[').replace('>', ']');
