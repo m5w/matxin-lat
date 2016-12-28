@@ -23,4 +23,5 @@
 23	nostra	noster	ADJ	_	Case=Abl|Gender=Fem|Number=Sing	20	conj	_	_
 24	Galli	Galli	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	23	orphan	_	_
 25	appellantur	appello	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	11	conj	_	_
+26	.	.	PUNCT	_	25	punct	_	_
 
