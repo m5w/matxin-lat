@@ -13,8 +13,8 @@
            <NODE ord="8" alloc="0" form="," lem="," mi="PUNCT" si="punct"/>
          </NODE>
          <NODE ord="11" alloc="0" form="incolunt" lem="incolo" mi="VERB|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act" si="acl">
-           <NODE ord="10" alloc="0" form="unam" lem="unus" mi="ADJ|Case=Acc|Gender=Fem|Number=Sing" si="obj">
-             <NODE ord="9" alloc="0" form="quarum" lem="qui" mi="PRON|Case=Gen|Gender=Fem|Number=Plur" si="nmod"/>
+           <NODE ord="9" alloc="0" form="quarum" lem="qui" mi="PRON|Case=Gen|Gender=Fem|Number=Plur" si="obj">
+             <NODE ord="10" alloc="0" form="unam" lem="unus" mi="ADJ|Case=Acc|Gender=Fem|Number=Sing" si="amod"/>
            </NODE>
            <NODE ord="12" alloc="0" form="Belgae" lem="Belgae" mi="NOUN|Case=Nom|Gender=Masc|Number=Plur" si="nsubj">
              <NODE ord="13" alloc="0" form="," lem="," mi="PUNCT" si="punct"/>

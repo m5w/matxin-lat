@@ -6,8 +6,8 @@
 6	partes	pars	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	4	obl	_	_
 7	tres	tres	NUM	_	Case=Acc|Gender=Fem|Number=Plur	6	nummod	_	_
 8	,	,	PUNCT	_	_	7	punct	_	_
-9	quarum	qui	PRON	_	Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	_
-10	unam	unus	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
+9	quarum	qui	PRON	_	Case=Gen|Gender=Fem|Number=Plur	11	obj	_	_
+10	unam	unus	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	9	amod	_	_
 11	incolunt	incolo	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	_	_
 12	Belgae	Belgae	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
 13	,	,	PUNCT	_	_	12	punct	_	_
