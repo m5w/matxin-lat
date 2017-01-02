@@ -26,12 +26,12 @@
              <NODE ord="18" alloc="0" form="qui" lem="qui" mi="PRON|Case=Nom|Gender=Masc|Number=Plur" si="nsubj"/>
              <NODE ord="20" alloc="0" form="lingua" lem="lingua" mi="NOUN|Case=Abl|Gender=Fem|Number=Sing" si="obl">
                <NODE ord="19" alloc="0" form="ipsorum" lem="ipse" mi="PRON|Case=Gen|Gender=Masc|Number=Plur" si="nmod"/>
-               <NODE ord="23" alloc="0" form="nostra" lem="noster" mi="ADJ|Case=Abl|Gender=Fem|Number=Sing" si="conj">
-                 <NODE ord="22" alloc="0" form="," lem="," mi="PUNCT" si="punct"/>
-                 <NODE ord="24" alloc="0" form="Galli" lem="Galli" mi="NOUN|Case=Nom|Gender=Masc|Number=Plur" si="orphan"/>
-               </NODE>
              </NODE>
              <NODE ord="21" alloc="0" form="Celtae" lem="Celtae" mi="NOUN|Case=Nom|Gender=Masc|Number=Plur" si="obj"/>
+             <NODE ord="23" alloc="0" form="nostra" lem="noster" mi="ADJ|Case=Abl|Gender=Fem|Number=Sing" si="conj">
+               <NODE ord="22" alloc="0" form="," lem="," mi="PUNCT" si="punct"/>
+               <NODE ord="24" alloc="0" form="Galli" lem="Galli" mi="NOUN|Case=Nom|Gender=Masc|Number=Plur" si="orphan"/>
+             </NODE>
            </NODE>
          </NODE>
        </NODE>
